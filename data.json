@@ -2,4 +2,5 @@
  {"alumno":"Pepito","nota":4,"ranking":150},{"alumno":"Juancito","nota":6,"ranking":80},
  {"alumno":"Crisitan","nota":5,"ranking":100},{"alumno":"Jordan","nota":3.5,"ranking":120},
  {"alumno":"Jorge","nota":3.7,"ranking":130},{"alumno":"Cesar","nota":3.8,"ranking":140},
- {"alumno":"Miguel","nota":3,"ranking":200}]
+ {"alumno":"Miguel","nota":3,"ranking":200},{"alumno":"Richardnota":5.5,"ranking":90},
+ {"alumno":"Cesar","nota":5.1,"ranking":98}, {"alumno":"Miguel","nota":4.5,"ranking":148}]
